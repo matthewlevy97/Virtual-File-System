@@ -1,5 +1,5 @@
 # What Is This?
-A virtual file system created in Java.
+A virtual file system created in Java that can be used to store multiple files inside a transportable container.
 
 # Terms
 * container - A single file holding all files/blocks
